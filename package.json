@@ -1,0 +1,29 @@
+{
+  "name": "final-exam-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aghyad97/final-exam-IoT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aghyad97/final-exam-IoT/issues"
+  },
+  "homepage": "https://github.com/aghyad97/final-exam-IoT#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "get": "^1.4.0",
+    "mongoose": "^5.11.8"
+  }
+}
